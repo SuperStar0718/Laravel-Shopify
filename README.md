@@ -58,7 +58,7 @@ Maintainers are users who manage the repository itself, whether it's managing th
 
 Currently this repository is maintained by:
 
-- [@elitesuper](https://github.com/elitesuper)
+- [@SuperStar0718](https://github.com/SuperStar0718)
 - [@kyon147](https://github.com/kyon147)
 - [@lucasmichot](https://github.com/lucasmichot)
 
